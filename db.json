@@ -1,0 +1,1504 @@
+{
+  "aforisms": [
+    {
+      "words": "Your next step is simple. You are the first domino.",
+      "author": "Gary Keller",
+      "likes": 1,
+      "id": 1
+    },
+    {
+      "words": "Human happiness and moral duty are inseparably connected. ",
+      "author": "George Washington",
+      "likes": 1,
+      "id": 2
+    },
+    {
+      "words": "When you are totally at peace with yourself, nothing can shake you.",
+      "author": "Deepam Chaterjee",
+      "likes": 1,
+      "id": 3
+    },
+    {
+      "words": "People rarely succeed unless they have fun in what they are doing.",
+      "author": "Dale Carnegie",
+      "likes": 1,
+      "id": 4
+    },
+    {
+      "words": "We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities.",
+      "author": "Josh Waitzkin",
+      "likes": 1,
+      "id": 5
+    },
+    {
+      "words": "Life is love and love is life.",
+      "author": "Elvis Presley",
+      "likes": 0,
+      "id": 6
+    },
+    {
+      "words": "Only those who will risk going too far can possibly find out how far one can go.",
+      "author": "T.S. Eliot",
+      "likes": 1,
+      "id": 7
+    },
+    {
+      "words": "Sometimes, the only way to evolve is to open ourselves fully.",
+      "author": "Kamal Ravikant",
+      "likes": 0,
+      "id": 8
+    },
+    {
+      "words": "There are no shortcuts to any place worth going. ",
+      "author": "Beverly Sills",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "words": "Enjoy every minute of life. Never second-guess life.",
+      "author": "Michael Jordan",
+      "likes": 1,
+      "id": 10
+    },
+    {
+      "words": "Focused, hard work is the real key to success.",
+      "author": "John Carmack",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "words": "The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible.",
+      "author": "Josh Waitzkin",
+      "likes": 1,
+      "id": 12
+    },
+    {
+      "words": "To succeed takes more than the desire to win. It also takes the acceptance that we could fail.",
+      "author": "Simon Sinek",
+      "likes": 0,
+      "id": 13
+    },
+    {
+      "words": "When something comes from within, when it is a part of you, you have no choice but to live it, to express it.",
+      "author": "Kamal Ravikant",
+      "likes": 0,
+      "id": 14
+    },
+    {
+      "words": "Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else.",
+      "author": "Les Brown",
+      "likes": 0,
+      "id": 15
+    },
+    {
+      "words": "No problem can be solved from the same level of consciousness that created it.",
+      "author": "Albert Einstein",
+      "likes": 0,
+      "id": 16
+    },
+    {
+      "words": "I must also have a dark side if I am to be whole.",
+      "author": "Carl Jung",
+      "likes": 1,
+      "id": 17
+    },
+    {
+      "words": "All that a man achieves and all that he fails to achieve is the direct result of his own thoughts.",
+      "author": "James Allen",
+      "likes": 0,
+      "id": 18
+    },
+    {
+      "words": "The wisest men follow their own direction.",
+      "author": "Euripides",
+      "likes": 0,
+      "id": 19
+    },
+    {
+      "words": "Rest and be kind, you don't have to prove anything.",
+      "author": "Jack Kerouac",
+      "likes": 0,
+      "id": 20
+    },
+    {
+      "words": "Never say never, because limits, like fears, are often just an illusion.",
+      "author": "Michael Jordan",
+      "likes": 0,
+      "id": 21
+    },
+    {
+      "words": "There is no significance in life without struggle.",
+      "author": "Lolly Daskal",
+      "likes": 0,
+      "id": 22
+    },
+    {
+      "words": "The world is open for play, everything and everybody is mockable in a wonderful way.",
+      "author": "Robin Williams",
+      "likes": 0,
+      "id": 23
+    },
+    {
+      "words": "The first rule of handling conflict is don't hang around people who are constantly engaging in conflict.",
+      "author": "Naval Ravikant",
+      "likes": 0,
+      "id": 24
+    },
+    {
+      "words": "Superstars think like superstars long before the fans or the press anoint them.",
+      "author": "John Eliot",
+      "likes": 0,
+      "id": 25
+    },
+    {
+      "words": "Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.",
+      "author": "Mark Twain",
+      "likes": 0,
+      "id": 26
+    },
+    {
+      "words": "Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end.",
+      "author": "Roy T. Bennett",
+      "likes": 0,
+      "id": 27
+    },
+    {
+      "words": "The highest form of ignorance is when you reject something you don't know anything about. ",
+      "author": "Wayne Dyer",
+      "likes": 0,
+      "id": 28
+    },
+    {
+      "words": "The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts.",
+      "author": "George Bernard Shaw",
+      "likes": 0,
+      "id": 29
+    },
+    {
+      "words": "To know even one life has breathed easier because you have lived. This is to have succeeded.",
+      "author": "Ralph Waldo Emerson",
+      "likes": 0,
+      "id": 30
+    },
+    {
+      "words": "The future belongs to those who believe in the beauty of their dreams.",
+      "author": "Eleanor Roosevelt",
+      "likes": 0,
+      "id": 31
+    },
+    {
+      "words": "The quality of your life is the quality of your relationships.",
+      "author": "Tony Robbins",
+      "likes": 0,
+      "id": 32
+    },
+    {
+      "words": "Your past does not equal your future.",
+      "author": "Tony Robbins",
+      "likes": 0,
+      "id": 33
+    },
+    {
+      "words": "Nothing is too high for a man to reach, but he must climb with care and confidence",
+      "author": "Hans Christian Andersen",
+      "likes": 1,
+      "id": 34
+    },
+    {
+      "words": "Acknowledging the good that you already have in your life is the foundation for all abundance.",
+      "author": "Eckhart Tolle",
+      "likes": 0,
+      "id": 35
+    },
+    {
+      "words": "We are all in the gutter, but some of us are looking at the stars. ",
+      "author": "Oscar Wilde",
+      "likes": 0,
+      "id": 36
+    },
+    {
+      "words": "Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be. ",
+      "author": "Miguel de Cervantes",
+      "likes": 0,
+      "id": 37
+    },
+    {
+      "words": "You get paid in direct proportion to the difficulty of problems you solve.",
+      "author": "Elon Musk",
+      "likes": 0,
+      "id": 38
+    },
+    {
+      "words": "No one can hurt you without your consent.",
+      "author": "Eleanor Roosevelt",
+      "likes": 0,
+      "id": 39
+    },
+    {
+      "words": "If you focus on results and finding shortcuts, you'll get impatient. If you focus on the process and doing the right thing, you'll be unstoppable.",
+      "author": "Maxime Lagace",
+      "likes": 0,
+      "id": 40
+    },
+    {
+      "words": "To every action there is always opposed an equal reaction.",
+      "author": "Isaac Newton",
+      "likes": 0,
+      "id": 41
+    },
+    {
+      "words": "Do not look for a sanctuary in anyone except your self.",
+      "author": "Buddha",
+      "likes": 0,
+      "id": 42
+    },
+    {
+      "words": "When you are content to be simply yourself and don't compare or compete, everybody will respect you. ",
+      "author": "Lao Tzu",
+      "likes": 0,
+      "id": 43
+    },
+    {
+      "words": "You are the average of the five people you spend the most time with.",
+      "author": "Jim Rohn",
+      "likes": 0,
+      "id": 44
+    },
+    {
+      "words": "People who belittle people, will be LITTLE people, and will accomplish very Little",
+      "author": "Norman Vincent Peale",
+      "likes": 0,
+      "id": 45
+    },
+    {
+      "words": "For things to change, you have to change.",
+      "author": "Jim Rohn",
+      "likes": 0,
+      "id": 46
+    },
+    {
+      "words": "To a mind that is still, the entire universe surrenders.",
+      "author": "Zhuangzi",
+      "likes": 0,
+      "id": 47
+    },
+    {
+      "words": "If you pray for rain, be prepared to deal with some mud.",
+      "author": "Mary Engelbreit",
+      "likes": 0,
+      "id": 48
+    },
+    {
+      "words": "Make yourself so useful to other people, that they think you are irreplaceable.",
+      "author": "Og Mandino",
+      "likes": 0,
+      "id": 49
+    },
+    {
+      "words": "Your only obligation in any lifetime is to be true to yourself.",
+      "author": "Richard Bach",
+      "likes": 0,
+      "id": 50
+    },
+    {
+      "words": "Most people achieved their greatest success one step beyond what looked like their greatest failure.",
+      "author": "Brian Tracy",
+      "likes": 0,
+      "id": 51
+    },
+    {
+      "words": "The way of success is the way of continuous pursuit of knowledge.",
+      "author": "Napoleon Hill",
+      "likes": 0,
+      "id": 52
+    },
+    {
+      "words": "If you do not change direction, you may end up where you are heading.",
+      "author": "Lao Tzu",
+      "likes": 0,
+      "id": 53
+    },
+    {
+      "words": "Pleasure is always derived from something outside you, whereas joy arises from within. ",
+      "author": "Eckhart Tolle",
+      "likes": 0,
+      "id": 54
+    },
+    {
+      "words": "You need a plan to build a house. To build a life, it is even more important to have a plan or goal.",
+      "author": "Zig Ziglar",
+      "likes": 0,
+      "id": 55
+    },
+    {
+      "words": "Either you run the day or the day runs you.",
+      "author": "Jim Rohn",
+      "likes": 0,
+      "id": 56
+    },
+    {
+      "words": "Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility.",
+      "author": "Sigmund Freud",
+      "likes": 0,
+      "id": 57
+    },
+    {
+      "words": "It's not what happens to you, but how you react to it that matters.",
+      "author": "Epictetus",
+      "likes": 0,
+      "id": 58
+    },
+    {
+      "words": "Looking after my health today gives me a better hope for tomorrow. ",
+      "author": "Anne Wilson Schaef",
+      "likes": 0,
+      "id": 59
+    },
+    {
+      "words": "Honesty is the first chapter in the book of wisdom.",
+      "author": "Thomas Jefferson",
+      "likes": 0,
+      "id": 60
+    },
+    {
+      "words": "Everybody by your side ain't on your side.",
+      "author": "Steve Harvey",
+      "likes": 0,
+      "id": 61
+    },
+    {
+      "words": "Life is not just the passing of time. Life is the collection of experiences and their intensity.",
+      "author": "Jim Rohn",
+      "likes": 0,
+      "id": 62
+    },
+    {
+      "words": "Always keep your eyes open. Keep watching. Because whatever you see can inspire you.",
+      "author": "Grace Coddington",
+      "likes": 0,
+      "id": 63
+    },
+    {
+      "words": "Every day do something that will inch you closer to a better tomorrow.",
+      "author": "Unknown",
+      "likes": 0,
+      "id": 64
+    },
+    {
+      "words": "The only way it gets better for you is when you get better. Better is not something you wish, it's something you become.",
+      "author": "Jim Rohn",
+      "likes": 0,
+      "id": 65
+    },
+    {
+      "words": "To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh.",
+      "author": "Pema Chodron",
+      "likes": 0,
+      "id": 66
+    },
+    {
+      "words": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+      "author": "Ralph Waldo Emerson",
+      "likes": 0,
+      "id": 67
+    },
+    {
+      "words": "Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is.",
+      "author": "Nicolas Chamfort",
+      "likes": 0,
+      "id": 68
+    },
+    {
+      "words": "All we have to decide is what to do with the time that is given to us.",
+      "author": "J.R.R. Tolkien",
+      "likes": 0,
+      "id": 69
+    },
+    {
+      "words": "Men do not attract which they want but that which they are.",
+      "author": "James Allen",
+      "likes": 0,
+      "id": 70
+    },
+    {
+      "words": "What you resist, persists.",
+      "author": "Carl Jung",
+      "likes": 0,
+      "id": 71
+    },
+    {
+      "words": "Human beings believe just as they breathe - in order to survive.",
+      "author": "Carlos Ruiz Zafon",
+      "likes": 0,
+      "id": 72
+    },
+    {
+      "words": "Do all things with love.",
+      "author": "Og Mandino",
+      "likes": 0,
+      "id": 73
+    },
+    {
+      "words": "You can't build a reputation on what you are going to do. ",
+      "author": "Henry Ford",
+      "likes": 0,
+      "id": 74
+    },
+    {
+      "words": "If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness.",
+      "author": "Unknown",
+      "likes": 0,
+      "id": 75
+    },
+    {
+      "words": "I put my heart and soul into my work, and I have lost my mind in the process.",
+      "author": "Vincent van Gogh",
+      "likes": 0,
+      "id": 76
+    },
+    {
+      "words": "Your greatest asset is your earning ability. Your greatest resource is your time.",
+      "author": "Brian Tracy",
+      "likes": 0,
+      "id": 77
+    },
+    {
+      "words": "You need to be doing fewer things for more effect instead of doing more things with side effects.",
+      "author": "Gary Keller",
+      "likes": 0,
+      "id": 78
+    },
+    {
+      "words": "The chief enemy of creativity is good sense.",
+      "author": "Pablo Picasso",
+      "likes": 0,
+      "id": 79
+    },
+    {
+      "words": "A bird does not sing because it has an answer. It sings because it has a song.",
+      "author": "Chinese Proverb",
+      "likes": 0,
+      "id": 80
+    },
+    {
+      "words": "As you think, so shall you become. ",
+      "author": "Bruce Lee",
+      "likes": 0,
+      "id": 81
+    },
+    {
+      "words": "It's always to soon to quit!",
+      "author": "Norman Vincent Peale",
+      "likes": 0,
+      "id": 82
+    },
+    {
+      "words": "It is best to begin at the beginning.",
+      "author": "Amelia Earhart",
+      "likes": 0,
+      "id": 83
+    },
+    {
+      "words": "Forgive those who have hurt you.",
+      "author": "Les Brown",
+      "likes": 0,
+      "id": 84
+    },
+    {
+      "words": "If you are going to achieve excellence in big things, you develop the habit in little matters.",
+      "author": "Colin Powell",
+      "likes": 0,
+      "id": 85
+    },
+    {
+      "words": "A golden cage is still just a cage.",
+      "author": "Anita Krizzan",
+      "likes": 0,
+      "id": 86
+    },
+    {
+      "words": "Wise people, even though all laws were abolished, would still lead the same life.",
+      "author": "Aristophanes",
+      "likes": 0,
+      "id": 87
+    },
+    {
+      "words": "Learn from the mistakes of others. You can't live long enough to make them all yourself.",
+      "author": "Eleanor Roosevelt",
+      "likes": 0,
+      "id": 88
+    },
+    {
+      "words": "Great leaders are almost always great simplifiers, who can cut through argument, debate and doubt, to offer a solution everybody can understand.",
+      "author": "Colin Powell",
+      "likes": 0,
+      "id": 89
+    },
+    {
+      "words": "You may delay, but time will not.",
+      "author": "Benjamin Franklin",
+      "likes": 0,
+      "id": 90
+    },
+    {
+      "words": "If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe.",
+      "author": "Nikola Tesla",
+      "likes": 0,
+      "id": 91
+    },
+    {
+      "words": "If you have to be in a soap opera try not to be cast in the worst role.",
+      "author": "Judy Garland",
+      "likes": 0,
+      "id": 92
+    },
+    {
+      "words": "Success is good at any age, but the sooner you find it, the longer you will enjoy it.",
+      "author": "Napoleon Hill",
+      "likes": 0,
+      "id": 93
+    },
+    {
+      "words": "Beware of false knowledge, it is more dangerous than ignorance.",
+      "author": "George Bernard Shaw",
+      "likes": 0,
+      "id": 94
+    },
+    {
+      "words": "Life without love is like a tree without blossoms or fruit.",
+      "author": "Kahlil Gibran",
+      "likes": 0,
+      "id": 95
+    },
+    {
+      "words": "The first rule of handling conflict is don't hang around people who are constantly engaging in conflict.",
+      "author": "Naval Ravikant",
+      "likes": 0,
+      "id": 96
+    },
+    {
+      "words": "Happiness must be grown in one's own garden.",
+      "author": "Mary Engelbreit",
+      "likes": 0,
+      "id": 97
+    },
+    {
+      "words": "Fear is a natural reaction to moving closer to the truth.",
+      "author": "Pema Chodron",
+      "likes": 0,
+      "id": 98
+    },
+    {
+      "words": "Change is hardest at the beginning, messiest in the middle and best at the end.",
+      "author": "Robin Sharma",
+      "likes": 0,
+      "id": 99
+    },
+    {
+      "words": "A man who dares to waste one hour of time has not discovered the value of life.",
+      "author": "Charles Darwin",
+      "likes": 0,
+      "id": 100
+    },
+    {
+      "words": "It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance.",
+      "author": "Kamal Ravikant",
+      "likes": 0,
+      "id": 101
+    },
+    {
+      "words": "I take the position that I'm always to some degree wrong, and the aspiration is to be less wrong.",
+      "author": "Elon Musk",
+      "likes": 0,
+      "id": 102
+    },
+    {
+      "words": "Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you.",
+      "author": "Dale Carnegie",
+      "likes": 0,
+      "id": 103
+    },
+    {
+      "words": "If you want things to be different, perhaps the answer is to become different yourself.",
+      "author": "Norman Vincent Peale",
+      "likes": 0,
+      "id": 104
+    },
+    {
+      "words": "All you need is the plan, the road map, and the courage to press on to your destination.",
+      "author": "Earl Nightingale",
+      "likes": 0,
+      "id": 105
+    },
+    {
+      "words": "Get busy living, or get busy dying.",
+      "author": "Stephen King",
+      "likes": 0,
+      "id": 106
+    },
+    {
+      "words": "The world makes way for the man who knows where he is going.",
+      "author": "Ralph Waldo Emerson",
+      "likes": 0,
+      "id": 107
+    },
+    {
+      "words": "Like it or not, this moment is all we really have to work with.",
+      "author": "Jon Kabat-Zinn",
+      "likes": 0,
+      "id": 108
+    },
+    {
+      "words": "Peace if possible, truth at all costs.",
+      "author": "Martin Luther",
+      "likes": 0,
+      "id": 109
+    },
+    {
+      "words": "The important thing is not what one is born with but what use one makes of that equipment.",
+      "author": "Alfred Adler",
+      "likes": 0,
+      "id": 110
+    },
+    {
+      "words": "I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in.",
+      "author": "Virginia Woolf",
+      "likes": 0,
+      "id": 111
+    },
+    {
+      "words": "Muddy water is best cleared by leaving it alone.",
+      "author": "Alan Watts",
+      "likes": 0,
+      "id": 112
+    },
+    {
+      "words": "A wise man will be master of his mind, a fool will be its slave.",
+      "author": "Publilius Syrus",
+      "likes": 0,
+      "id": 113
+    },
+    {
+      "words": "The significance of life is living.",
+      "author": "Jiddu Krishnamurti",
+      "likes": 0,
+      "id": 114
+    },
+    {
+      "words": "When we have our body and mind in order, everything else will exist in the right place, in the right way.",
+      "author": "Shunryu Suzuki",
+      "likes": 0,
+      "id": 115
+    },
+    {
+      "words": "Failure is an option here. If things are not failing, you are not innovating enough.",
+      "author": "Elon Musk",
+      "likes": 0,
+      "id": 116
+    },
+    {
+      "words": "When you rise in the morning, form a resolution to make the day a happy one for a fellow creature.",
+      "author": "Sydney Smith",
+      "likes": 0,
+      "id": 117
+    },
+    {
+      "words": "Argue for your limitations and sure enough, they're yours.",
+      "author": "Richard Bach",
+      "likes": 0,
+      "id": 118
+    },
+    {
+      "words": "Instead of thinking outside the box, get rid of the box.",
+      "author": "Deepak Chopra",
+      "likes": 0,
+      "id": 119
+    },
+    {
+      "words": "Give out what you most want to come back.",
+      "author": "Robin Sharma",
+      "likes": 0,
+      "id": 120
+    },
+    {
+      "words": "Humans and prosperity never endure side by side for long.",
+      "author": "Herodotus",
+      "likes": 0,
+      "id": 121
+    },
+    {
+      "words": "Truth is like most opinions - best unexpressed.",
+      "author": "Kenneth Branagh",
+      "likes": 0,
+      "id": 122
+    },
+    {
+      "words": "As a matter of fact is an expression that precedes many an expression that isn't.",
+      "author": "Laurence J. Peter",
+      "likes": 0,
+      "id": 123
+    },
+    {
+      "words": "If I persist long enough I will win.",
+      "author": "Og Mandino",
+      "likes": 0,
+      "id": 124
+    },
+    {
+      "words": "Knowledge has to be improved, challenged, and increased constantly, or it vanishes.",
+      "author": "Peter Drucker",
+      "likes": 0,
+      "id": 125
+    },
+    {
+      "words": "Empty your mind, be formless.",
+      "author": "Bruce Lee",
+      "likes": 0,
+      "id": 126
+    },
+    {
+      "words": "By changing nothing, nothing changes.",
+      "author": "Celestine Chua",
+      "likes": 0,
+      "id": 127
+    },
+    {
+      "words": "By words the mind is winged.",
+      "author": "Aristophanes",
+      "likes": 0,
+      "id": 128
+    },
+    {
+      "words": "Love your enemies, for they tell you your faults.",
+      "author": "Benjamin Franklin",
+      "likes": 0,
+      "id": 129
+    },
+    {
+      "words": "Sometimes a change of perspective is all it takes to see the light.",
+      "author": "Dan Brown",
+      "likes": 0,
+      "id": 130
+    },
+    {
+      "words": "Become the kind of leader that people would follow voluntarily, even if you had no title or position.",
+      "author": "Brian Tracy",
+      "likes": 0,
+      "id": 131
+    },
+    {
+      "words": "Why do you stay in prison when the door is so wide open?",
+      "author": "Rumi",
+      "likes": 0,
+      "id": 132
+    },
+    {
+      "words": "Closing your eyes and listening to silence is self-care.",
+      "author": "Maxime Lagace",
+      "likes": 0,
+      "id": 133
+    },
+    {
+      "words": "All wealth is the product of labor.",
+      "author": "John Locke",
+      "likes": 0,
+      "id": 134
+    },
+    {
+      "words": "Distant water does not put out a nearby fire.",
+      "author": "Chinese Proverb",
+      "likes": 0,
+      "id": 135
+    },
+    {
+      "words": "Don't criticize what you can't understand. ",
+      "author": "Bob Dylan",
+      "likes": 0,
+      "id": 136
+    },
+    {
+      "words": "The harder the conflict, the greater the triumph. ",
+      "author": "George Washington",
+      "likes": 0,
+      "id": 137
+    },
+    {
+      "words": "Here is the test to find whether your mission on earth is finished. If you're alive, it isn't.",
+      "author": "Richard Bach",
+      "likes": 0,
+      "id": 138
+    },
+    {
+      "words": "You may forget with whom you laughed, but you will never forget with whom you wept.  ",
+      "author": "Kahlil Gibran",
+      "likes": 0,
+      "id": 139
+    },
+    {
+      "words": "Tall oaks grow from little acorns.",
+      "author": "Andrew Carnegie",
+      "likes": 0,
+      "id": 140
+    },
+    {
+      "words": "Never spend your money before you have earned it.",
+      "author": "Thomas Jefferson",
+      "likes": 0,
+      "id": 141
+    },
+    {
+      "words": "He who wishes to be obeyed must know how to command.",
+      "author": "Niccolo Machiavelli",
+      "likes": 0,
+      "id": 142
+    },
+    {
+      "words": "I pay attention to every minute of the day.",
+      "author": "Steve Harvey",
+      "likes": 0,
+      "id": 143
+    },
+    {
+      "words": "If you're not making mistakes, then you're not doing anything.",
+      "author": "John Wooden",
+      "likes": 0,
+      "id": 144
+    },
+    {
+      "words": "Never put off to tomorrow what you can do to-day.",
+      "author": "Thomas Jefferson",
+      "likes": 0,
+      "id": 145
+    },
+    {
+      "words": "When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there.",
+      "author": "Zig Ziglar",
+      "likes": 0,
+      "id": 146
+    },
+    {
+      "words": "The truth is simple. If it was complicated, everyone would understand it.",
+      "author": "Walt Whitman",
+      "likes": 0,
+      "id": 147
+    },
+    {
+      "words": "We have to walk in a way that we only print peace and serenity on the Earth. Walk as if you are kissing the Earth with your feet.",
+      "author": "Thich Nhat Hanh",
+      "likes": 0,
+      "id": 148
+    },
+    {
+      "words": "The less you open your heart to others, the more your heart suffers.",
+      "author": "Deepak Chopra",
+      "likes": 0,
+      "id": 149
+    },
+    {
+      "words": "Failure is feedback. Learn from it and move on.",
+      "author": "Jack Butcher",
+      "likes": 0,
+      "id": 150
+    },
+    {
+      "words": "Live in the sunshine, swim the sea, drink the wild air.",
+      "author": "Ralph Waldo Emerson",
+      "likes": 0,
+      "id": 151
+    },
+    {
+      "words": "There are no differences but differences of degree between different degrees of difference and no difference.",
+      "author": "William James",
+      "likes": 0,
+      "id": 152
+    },
+    {
+      "words": "Time is more valuable than money. You can get more money, but you cannot get more time.",
+      "author": "Jim Rohn",
+      "likes": 0,
+      "id": 153
+    },
+    {
+      "words": "The less you open your heart to others, the more your heart suffers.",
+      "author": "Deepak Chopra",
+      "likes": 0,
+      "id": 154
+    },
+    {
+      "words": "Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence.",
+      "author": "Sydney Smith",
+      "likes": 0,
+      "id": 155
+    },
+    {
+      "words": "It's the unknown we fear when we look upon death and darkness, nothing more.",
+      "author": "Albus Dumbledore",
+      "likes": 0,
+      "id": 156
+    },
+    {
+      "words": "There is no significance in life without struggle.",
+      "author": "Lolly Daskal",
+      "likes": 0,
+      "id": 157
+    },
+    {
+      "words": "You have power over your mind - not outside events. Realize this, and you will find strength.",
+      "author": "Marcus Aurelius",
+      "likes": 0,
+      "id": 158
+    },
+    {
+      "words": "If you set your goals ridiculously high and its a failure, you will fail above everyone elses success.",
+      "author": "James Cameron",
+      "likes": 0,
+      "id": 159
+    },
+    {
+      "words": "Dance first. Think later. It's the natural order.",
+      "author": "Samuel Beckett",
+      "likes": 0,
+      "id": 160
+    },
+    {
+      "words": "Listening well is as powerful as talking well, and is also as essential to true conversation.",
+      "author": "Chinese Proverb",
+      "likes": 0,
+      "id": 161
+    },
+    {
+      "words": "Surrender to what is. Let go of what was. Have faith in what will be.",
+      "author": "Sonia Ricotti",
+      "likes": 0,
+      "id": 162
+    },
+    {
+      "words": "The time is always right to do what is right.",
+      "author": "Martin Luther King, Jr.",
+      "likes": 0,
+      "id": 163
+    },
+    {
+      "words": "Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty.",
+      "author": "Theodore Roosevelt",
+      "likes": 0,
+      "id": 164
+    },
+    {
+      "words": "Most of us will do anything to avoid facing ourselves.",
+      "author": "Lolly Daskal",
+      "likes": 0,
+      "id": 165
+    },
+    {
+      "words": "There is always risk, so learn to manage risk instead of avoiding it.",
+      "author": "Robert Kiyosaki",
+      "likes": 0,
+      "id": 166
+    },
+    {
+      "words": "Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward.",
+      "author": "Unknown",
+      "likes": 0,
+      "id": 167
+    },
+    {
+      "words": "What you do today can improve all your tomorrows.",
+      "author": "Ralph Marston",
+      "likes": 0,
+      "id": 168
+    },
+    {
+      "words": "The wisest men follow their own direction.",
+      "author": "Euripides",
+      "likes": 0,
+      "id": 169
+    },
+    {
+      "words": "The final mystery is oneself.",
+      "author": "Oscar Wilde",
+      "likes": 0,
+      "id": 170
+    },
+    {
+      "words": "Never close your lips to those whom you have already opened your heart.",
+      "author": "Charles Dickens",
+      "likes": 0,
+      "id": 171
+    },
+    {
+      "words": "A good character is the best tombstone. Carve your name on hearts, not on marble.",
+      "author": "Charles Spurgeon",
+      "likes": 0,
+      "id": 172
+    },
+    {
+      "words": "An investment in knowledge pays the best interest.",
+      "author": "Benjamin Franklin",
+      "likes": 0,
+      "id": 173
+    },
+    {
+      "words": "Do something to move yourself toward your major goal every day.",
+      "author": "Brian Tracy",
+      "likes": 0,
+      "id": 174
+    },
+    {
+      "words": "Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility.",
+      "author": "Sigmund Freud",
+      "likes": 0,
+      "id": 175
+    },
+    {
+      "words": "People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine.",
+      "author": "Brian Tracy",
+      "likes": 0,
+      "id": 176
+    },
+    {
+      "words": "He who cannot be a good follower cannot be a good leader.",
+      "author": "Aristotle",
+      "likes": 0,
+      "id": 177
+    },
+    {
+      "words": "No matter who you are, we're creatures of habit. The better your habits are, the better they will be in pressure situations.",
+      "author": "Wayne Gretzky",
+      "likes": 0,
+      "id": 178
+    },
+    {
+      "words": "The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches.",
+      "author": "Ming-Dao Deng",
+      "likes": 0,
+      "id": 179
+    },
+    {
+      "words": "It is our experiences that mold us into who we are...during times of adversity our true character will show.",
+      "author": "Unknown",
+      "likes": 0,
+      "id": 180
+    },
+    {
+      "words": "Life is about choice. You can choose to be a victim or anything else you like to be.",
+      "author": "Celestine Chua",
+      "likes": 0,
+      "id": 181
+    },
+    {
+      "words": "Where the willingness is great, the difficulties cannot be great.",
+      "author": "Niccolo Machiavelli",
+      "likes": 0,
+      "id": 182
+    },
+    {
+      "words": "You don't need to be better than anyone else, you just need to be better than you used to be.",
+      "author": "Wayne Dyer",
+      "likes": 0,
+      "id": 183
+    },
+    {
+      "words": "An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question.",
+      "author": "John Tukey",
+      "likes": 0,
+      "id": 184
+    },
+    {
+      "words": "If you cannot understand something, then you have understood it incorrectly.",
+      "author": "Kabir",
+      "likes": 0,
+      "id": 185
+    },
+    {
+      "words": "Behind every cloud is another cloud.",
+      "author": "Judy Garland",
+      "likes": 0,
+      "id": 186
+    },
+    {
+      "words": "Treat every moment as your last. It is not preparation for something else.",
+      "author": "Shunryu Suzuki",
+      "likes": 0,
+      "id": 187
+    },
+    {
+      "words": "I have never let my schooling interfere with my education.",
+      "author": "Mark Twain",
+      "likes": 0,
+      "id": 188
+    },
+    {
+      "words": "The more you trust yourself, the less you compare yourself to others.",
+      "author": "Roy T. Bennett",
+      "likes": 0,
+      "id": 189
+    },
+    {
+      "words": "Sometimes you will never know the value of something, until it becomes a memory.",
+      "author": "Dr. Seuss",
+      "likes": 0,
+      "id": 190
+    },
+    {
+      "words": "We become brave by doing brave acts.",
+      "author": "Aristotle",
+      "likes": 0,
+      "id": 191
+    },
+    {
+      "words": "You may forget with whom you laughed, but you will never forget with whom you wept.  ",
+      "author": "Kahlil Gibran",
+      "likes": 0,
+      "id": 192
+    },
+    {
+      "words": "It is not the knowing that is difficult, but the doing. ",
+      "author": "Chinese Proverb",
+      "likes": 0,
+      "id": 193
+    },
+    {
+      "words": "The best revenge is to be unlike him who performed the injury.",
+      "author": "Marcus Aurelius",
+      "likes": 0,
+      "id": 194
+    },
+    {
+      "words": "All animals except man know that the principal business of life is to enjoy it.",
+      "author": "Samuel Butler",
+      "likes": 0,
+      "id": 195
+    },
+    {
+      "words": "Management is doing things right; leadership is doing the right things.",
+      "author": "Peter Drucker",
+      "likes": 0,
+      "id": 196
+    },
+    {
+      "words": "A person is only by the thoughts that he chooses.",
+      "author": "James Allen",
+      "likes": 0,
+      "id": 197
+    },
+    {
+      "words": "You live by what you thrill to, and there's the end of it.",
+      "author": "D. H. Lawrence",
+      "likes": 0,
+      "id": 198
+    },
+    {
+      "words": "To avoid criticism, do nothing, say nothing, and be nothing.",
+      "author": "Elbert Hubbard",
+      "likes": 0,
+      "id": 199
+    },
+    {
+      "words": "The world doesn't always give you want, but it often gives you what you need.",
+      "author": "Naval Ravikant",
+      "likes": 0,
+      "id": 200
+    },
+    {
+      "words": "Success is the child of drudgery and perseverance. It cannot be coaxed or bribed; pay the price and it is yours. ",
+      "author": "Orison Swett Marden",
+      "likes": 0,
+      "id": 201
+    },
+    {
+      "words": "No duty is more urgent than that of returning thanks.",
+      "author": "James Allen",
+      "likes": 0,
+      "id": 202
+    },
+    {
+      "words": "He will win who knows when to fight and when not to fight.",
+      "author": "Sun Tzu",
+      "likes": 0,
+      "id": 203
+    },
+    {
+      "words": "If you don't like something, change it. If you can't change it, change your attitude.",
+      "author": "Maya Angelou",
+      "likes": 0,
+      "id": 204
+    },
+    {
+      "words": "What do we live for, if it is not to make life less difficult for each other?",
+      "author": "George Eliot",
+      "likes": 0,
+      "id": 205
+    },
+    {
+      "words": "Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day!",
+      "author": "Og Mandino",
+      "likes": 0,
+      "id": 206
+    },
+    {
+      "words": "Human beings believe just as they breathe - in order to survive.",
+      "author": "Carlos Ruiz Zafon",
+      "likes": 0,
+      "id": 207
+    },
+    {
+      "words": "Life becomes easier and more beautiful when we can see the good in other people.",
+      "author": "Roy T. Bennett",
+      "likes": 0,
+      "id": 208
+    },
+    {
+      "words": "One never does wrong by doing right.",
+      "author": "Norman Vincent Peale",
+      "likes": 0,
+      "id": 209
+    },
+    {
+      "words": "Men are equal; it is not birth but virtue that makes the difference.",
+      "author": "Voltaire",
+      "likes": 0,
+      "id": 210
+    },
+    {
+      "words": "Imagination means nothing without doing.  ",
+      "author": "Charlie Chaplin",
+      "likes": 0,
+      "id": 211
+    },
+    {
+      "words": "You have within you right now, everything you need to deal with whatever the world can throw at you.",
+      "author": "Brian Tracy",
+      "likes": 0,
+      "id": 212
+    },
+    {
+      "words": "We must cultivate our garden. ",
+      "author": "Voltaire",
+      "likes": 0,
+      "id": 213
+    },
+    {
+      "words": "Whatever your mind can conceive and believe, it can achieve.",
+      "author": "Napoleon Hill",
+      "likes": 0,
+      "id": 214
+    },
+    {
+      "words": "The question is not what you look at, but what you see.",
+      "author": "Henry David Thoreau",
+      "likes": 0,
+      "id": 215
+    },
+    {
+      "words": "Fear does not have any special power unless you empower it by submitting to it.",
+      "author": "Les Brown",
+      "likes": 0,
+      "id": 216
+    },
+    {
+      "words": "You don't need to be better than anyone else, you just need to be better than you used to be.",
+      "author": "Wayne Dyer",
+      "likes": 0,
+      "id": 217
+    },
+    {
+      "words": "A man with outward courage dares to die: a man with inner courage dares to live.",
+      "author": "Lao Tzu",
+      "likes": 0,
+      "id": 218
+    },
+    {
+      "words": "Some people are old at 18 and some are young at 90. Time is a concept that humans created.",
+      "author": "Yoko Ono",
+      "likes": 0,
+      "id": 219
+    },
+    {
+      "words": "True life is lived when tiny changes occur.",
+      "author": "Leo Tolstoy",
+      "likes": 0,
+      "id": 220
+    },
+    {
+      "words": "If you can't, you must. If you must, you can.",
+      "author": "Tony Robbins",
+      "likes": 0,
+      "id": 221
+    },
+    {
+      "words": "In order for you to be the BEST you can be for others, first you must be BEST for yourself.",
+      "author": "Jeffrey Gitomer",
+      "likes": 0,
+      "id": 222
+    },
+    {
+      "words": "Motivation is what gets you started. Habit is what keeps you going.",
+      "author": "Jim Rohn",
+      "likes": 0,
+      "id": 223
+    },
+    {
+      "words": "Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime.",
+      "author": "Lao Tzu",
+      "likes": 0,
+      "id": 224
+    },
+    {
+      "words": "You purchase pain with all that joy can give and die of nothing but a rage to live.",
+      "author": "Alexander Pope",
+      "likes": 0,
+      "id": 225
+    },
+    {
+      "words": "Only he who has no use for the empire is fit to be entrusted with it.",
+      "author": "Zhuangzi",
+      "likes": 0,
+      "id": 226
+    },
+    {
+      "words": "Dance first. Think later. It's the natural order.",
+      "author": "Samuel Beckett",
+      "likes": 0,
+      "id": 227
+    },
+    {
+      "words": "The future depends on what you do today. ",
+      "author": "Mahatma Gandhi",
+      "likes": 0,
+      "id": 228
+    },
+    {
+      "words": "We must create our own world or we will die from inaction.",
+      "author": "Robert Greene",
+      "likes": 0,
+      "id": 229
+    },
+    {
+      "words": "The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened.",
+      "author": "Kamal Ravikant",
+      "likes": 0,
+      "id": 230
+    },
+    {
+      "words": "If you can't argue both sides, you can't argue.",
+      "author": "Jack Butcher",
+      "likes": 0,
+      "id": 231
+    },
+    {
+      "words": "Greatest success comes just one step beyond the point at which defeat overtakes you.",
+      "author": "Unknown",
+      "likes": 0,
+      "id": 232
+    },
+    {
+      "words": "Being in a good frame of mind helps keep one in the picture of health.",
+      "author": "Unknown",
+      "likes": 0,
+      "id": 233
+    },
+    {
+      "words": "Conflict cannot survive without your participation. ",
+      "author": "Wayne Dyer",
+      "likes": 0,
+      "id": 234
+    },
+    {
+      "words": "Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'",
+      "author": "Brian Tracy",
+      "likes": 0,
+      "id": 235
+    },
+    {
+      "words": "Honor is the foundation of courage.",
+      "author": "Amelia Earhart",
+      "likes": 0,
+      "id": 236
+    },
+    {
+      "words": "It ain't where you start in life, it's where you end up, and what you did along the way.",
+      "author": "Colin Powell",
+      "likes": 0,
+      "id": 237
+    },
+    {
+      "words": "If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems.",
+      "author": "Robert Kiyosaki",
+      "likes": 0,
+      "id": 238
+    },
+    {
+      "words": "Be polite to all, but intimate with few.",
+      "author": "Thomas Jefferson",
+      "likes": 0,
+      "id": 239
+    },
+    {
+      "words": "Far more crucial than what we know or do not know is what we do not want to know.",
+      "author": "Eric Hoffer",
+      "likes": 0,
+      "id": 240
+    },
+    {
+      "words": "The most tragic thing in the world is a man of genius who is not a man of honor.",
+      "author": "George Bernard Shaw",
+      "likes": 0,
+      "id": 241
+    },
+    {
+      "words": "You live by what you thrill to, and there's the end of it.",
+      "author": "D. H. Lawrence",
+      "likes": 0,
+      "id": 242
+    },
+    {
+      "words": "Love is not about possession. Love is about appreciation.",
+      "author": "Osho",
+      "likes": 0,
+      "id": 243
+    },
+    {
+      "words": "Science can flourish only in an atmosphere of free speech. ",
+      "author": "Albert Einstein",
+      "likes": 0,
+      "id": 244
+    },
+    {
+      "words": "Small men think they are small; great men never know they are great. ",
+      "author": "Chinese Proverb",
+      "likes": 0,
+      "id": 245
+    },
+    {
+      "words": "Today you are you, that is truer than true. There is no one alive who is you-er than you.",
+      "author": "Dr. Seuss",
+      "likes": 0,
+      "id": 246
+    },
+    {
+      "words": "The river that flows in you also flows in me.",
+      "author": "Kabir",
+      "likes": 0,
+      "id": 247
+    },
+    {
+      "words": "The only way it gets better for you is when you get better. Better is not something you wish, it's something you become.",
+      "author": "Jim Rohn",
+      "likes": 0,
+      "id": 248
+    },
+    {
+      "words": "A poet should be so crafty with words that he is envied even for his pains.",
+      "author": "Criss Jami",
+      "likes": 0,
+      "id": 249
+    },
+    {
+      "words": "Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. ",
+      "author": "Franz Kafka",
+      "likes": 0,
+      "id": 250
+    }
+  ]
+}
