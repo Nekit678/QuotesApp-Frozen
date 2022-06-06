@@ -1,0 +1,44 @@
+.post {
+    background-color: rgba(67, 84, 150, 0.281);
+    color: white;
+    border: 0;
+}
+
+.button{
+    color: #099;
+    background-color: rgba(255, 255, 255, 0);
+    background-image: url(../public/like.png);
+    background-size: 140%;
+    background-position: 90%;
+    margin-right: 10px;
+    border: 0;
+    padding: 12px 20px;
+    font-size: 1.4rem;
+    cursor: pointer;
+}
+
+.author{
+    color: rgb(223, 186, 186);
+    display: flex;    
+    font-size: 1.3rem;
+    font-variant: small-caps;
+}
+
+.words{
+    color: rgb(255, 255, 255);
+    display: flex;    
+    font-size: 1.6rem;
+    font-variant: small-caps;
+}
+
+.like{
+    margin-right: 10px;
+    font-size: 2rem;
+    font-style: italic;
+}
+
+.select{
+    margin-right: 10px;
+    font-size: 1.3rem;
+    font-style: italic;
+}
