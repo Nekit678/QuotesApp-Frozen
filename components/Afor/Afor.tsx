@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import styles from "../../styles/Afor.module.css";
-import {LikeAforism} from "./logic"
+import { LikeAforism } from "./logic"
 
 interface AforProps {
     id: number,
@@ -9,7 +9,7 @@ interface AforProps {
     likes: number
 }
 
-export default function Afor({ id, author, words, likes}: AforProps) {
+export default function Afor({ id, author, words, likes }: AforProps) {
     const [like, setLike] = useState(likes)
     const [select, setSelect] = useState(" ")
 
@@ -17,12 +17,11 @@ export default function Afor({ id, author, words, likes}: AforProps) {
         if (JSON.parse(String(localStorage.getItem("likes"))) == null) {
             localStorage.setItem("likes", "[]")
         }
-        const lk:any = JSON.parse(String(localStorage.getItem("likes")))
-        setSelect(lk.findIndex((item:number) => item == id) != -1 ? "Liked!":" ");
+        const lk: any = JSON.parse(String(localStorage.getItem("likes")))
+        setSelect(lk.findIndex((item: number) => item == id) != -1 ? "Liked!" : " ");
     }, [])
 
-    async function LikePost()
-    {
+    async function LikePost() {
         LikeAforism(select, setSelect, setLike, id)
     }
 

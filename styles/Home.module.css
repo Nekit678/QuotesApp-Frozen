@@ -4,7 +4,7 @@
     background-attachment: fixed;
 }
 
-.button{
+.button {
     background-image: url(../public/next.png);
     background-size: 100%;
     background-position-y: 50%;
@@ -22,14 +22,14 @@
 }
 
 
-.head{
+.head {
     font-style: italic;
     color: rgb(61, 67, 75);
     text-align: center;
     font-size: 2rem;
 }
 
-.page{
+.page {
     margin-right: 10px;
     color: rgb(61, 67, 75);
     font-size: 2rem;

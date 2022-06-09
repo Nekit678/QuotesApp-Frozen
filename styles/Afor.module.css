@@ -4,7 +4,7 @@
     border: 0;
 }
 
-.button{
+.button {
     color: #099;
     background-color: rgba(255, 255, 255, 0);
     background-image: url(../public/like.png);
@@ -17,27 +17,27 @@
     cursor: pointer;
 }
 
-.author{
+.author {
     color: rgb(223, 186, 186);
-    display: flex;    
+    display: flex;
     font-size: 1.3rem;
     font-variant: small-caps;
 }
 
-.words{
+.words {
     color: rgb(255, 255, 255);
-    display: flex;    
+    display: flex;
     font-size: 1.6rem;
     font-variant: small-caps;
 }
 
-.like{
+.like {
     margin-right: 10px;
     font-size: 2rem;
     font-style: italic;
 }
 
-.select{
+.select {
     margin-right: 10px;
     font-size: 1.3rem;
     font-style: italic;
