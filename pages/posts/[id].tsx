@@ -14,11 +14,11 @@ export default function ({ aforisms }: PageProps) {
             <h1 className={styles.head}>Афоризмы</h1>
             <div><Block aforisms={aforisms} /></div>
             <Link href={`/posts/${(Number(query.id) - 1) == 0 ? 1 : (Number(query.id) - 1)}`} >
-                <a className={styles.button}>Pre PAGE</a>
+                <a className={styles.button}>Назад</a>
             </Link>
-            <text>{query.id}</text>
+            <text className={styles.page}>{query.id}</text>
             <Link href={`/posts/${(Number(query.id) + 1)}`} >
-                <a className={styles.button}>NEXT PAGE</a>
+                <a className={styles.button}>Вперед</a>
             </Link>
         </div>
     )
