@@ -1,4 +1,4 @@
-export default async function outsideReq(req: any, res: any) {
+export default async function(req: any, res: any) {
     const response = await fetch(`https://zenquotes.io/api/quotes`)
     let aforisms = await response.json()
 
