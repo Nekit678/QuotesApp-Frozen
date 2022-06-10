@@ -4,7 +4,7 @@ interface BlockProps {
   aforisms: any[]
 }
 
-function Block({ aforisms}: BlockProps) {
+export default function Block({ aforisms}: BlockProps) {
   return (
     <div>
       {aforisms.map(item =>
@@ -13,5 +13,3 @@ function Block({ aforisms}: BlockProps) {
     </div>
   )
 }
-
-export default Block
