@@ -4,7 +4,7 @@ import Block from '../../components/Block/Block';
 import styles from '../../styles/Home.module.css';
 
 interface PageProps {
-    aforisms: any[]
+    aforisms: string[]
 }
 
 export default function ({ aforisms }: PageProps) {
