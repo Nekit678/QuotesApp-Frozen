@@ -1,4 +1,4 @@
-import Afor from '../Afor/Afor'
+import Afor from '../Afor/Aforism'
 
 interface BlockProps {
   aforisms: any[]

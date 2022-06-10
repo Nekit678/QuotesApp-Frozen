@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
-import styles from "../../styles/Afor.module.css";
-import { LikeAforism } from "./logic"
+import styles from "../../styles/Aforism.module.css";
+import { likeAforism } from "./logic"
 
 interface AforProps {
     id: number,
@@ -9,7 +9,7 @@ interface AforProps {
     likes: number
 }
 
-export default function Afor({ id, author, words, likes }: AforProps) {
+export default function Aforism({ id, author, words, likes }: AforProps) {
     const [like, setLike] = useState(likes)
     const [select, setSelect] = useState(" ")
 
@@ -21,8 +21,8 @@ export default function Afor({ id, author, words, likes }: AforProps) {
         setSelect(lk.findIndex((item: number) => item == id) != -1 ? "Liked!" : " ");
     }, [])
 
-    async function LikePost() {
-        LikeAforism(select, setSelect, setLike, id)
+    async function likePost() {
+        likeAforism(select, setSelect, setLike, id)
     }
 
     return (
@@ -30,7 +30,7 @@ export default function Afor({ id, author, words, likes }: AforProps) {
             <fieldset className={styles.post}>
                 <cite className={styles.words}>{words}</cite>
                 <p className={styles.author}>{author}</p>
-                <input className={styles.button} type="button" onClick={LikePost}></input>
+                <input className={styles.button} type="button" onClick={likePost}></input>
                 <text className={styles.like}>{like}</text>
                 <text className={styles.select}>{select}</text>
             </fieldset>
