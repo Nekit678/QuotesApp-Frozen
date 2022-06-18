@@ -1,7 +1,14 @@
 import Afor from '../Afor/Aforism'
 
+type aforism = {
+  id:number,
+  author:string,
+  words:string,
+  likes:number
+}
+
 interface BlockProps {
-  aforisms: any[]
+  aforisms: aforism[]
 }
 
 export default function Block({ aforisms}: BlockProps) {
