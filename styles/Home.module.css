@@ -32,6 +32,7 @@
 .page {
     margin-right: 10px;
     color: rgb(61, 67, 75);
-    font-size: 2rem;
+    font-size: 1.5rem;
     font-style: italic;
+    cursor: pointer;
 }
