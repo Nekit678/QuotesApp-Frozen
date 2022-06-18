@@ -3,8 +3,15 @@ import { useRouter } from 'next/router';
 import Block from '../../components/Block/Block';
 import styles from '../../styles/Home.module.css';
 
+type aforism = {
+    id: number,
+    author: string,
+    words: string,
+    likes: number
+}
+
 interface PageProps {
-    aforisms: string[]
+    aforisms: aforism[]
 }
 
 export default function ({ aforisms }: PageProps) {
@@ -14,11 +21,12 @@ export default function ({ aforisms }: PageProps) {
             <h1 className={styles.head}>Афоризмы</h1>
             <div><Block aforisms={aforisms} /></div>
             <Link href={`/posts/${(Number(query.id) - 1) == 0 ? 1 : (Number(query.id) - 1)}`} >
-                <a className={styles.button}>Назад</a>
+                <text className={styles.button}>Назад</text>
             </Link>
-            <text className={styles.page}>{query.id}</text>
+            {[(Number(query.id) - 2) <= 0 ? '' : Number(query.id) - 2, (Number(query.id) - 1) <= 0 ? '' : Number(query.id) - 1, Number(query.id), Number(query.id) + 1,
+            Number(query.id) + 2].map(item => <Link href={`/posts/${item}`} ><text className={styles.page}>{(Number(query.id) != item) ? item : `[${item}]`}</text></Link>)}
             <Link href={`/posts/${(Number(query.id) + 1)}`} >
-                <a className={styles.button}>Вперед</a>
+                <text className={styles.button}>Вперед</text>
             </Link>
         </div>
     )
