@@ -10,7 +10,6 @@ export default async function(req: any, res: any) {
                 likes: post.likes + req.body.action
             })
     });
-
-
+    
     res.status(200).json(post.likes + req.body.action)
 }
